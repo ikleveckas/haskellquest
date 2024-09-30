@@ -30,3 +30,6 @@ chmod +x MacOS.app/Contents/MacOS/HaskellQuest
 #### 4. Right click on that file in the Finder again. That will produce a similar error pop-up but this time it includes an "Open" button.
 
 #### 5. Click on Open.
+
+## Gameplay
+![image](https://github.com/user-attachments/assets/d13ab174-4e81-4e38-81bf-016d98e71c67)
